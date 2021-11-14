@@ -16,9 +16,9 @@ import java.util.HashMap;
 
 public class Main {
    
-    private static final String MODEL_URL = "";
+    private static final String MODEL_URL = "http://7bd59ee1-c585-41e0-9c3d-46d9ac914758.eastus.azurecontainer.io/score";
   
-    private static final String API_KEY = "";
+    private static final String API_KEY = "qMwIrrNUPpNzWwukdI6zlseZLmQqmTbg";
 
     public static void main(String[] Args) throws Exception {
       
